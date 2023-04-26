@@ -3,9 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arbobeck&label=Profile%20views&color=0e75b6&style=flat" alt="arbobeck" /> </p>
 
-- I’m currently learning **MS Azure & Kotlin**
+- I’m currently studying: **MS Azure**
 
-- How to reach me **arbobeck@gmail.com**
+- Reach me at: **arbobeck@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
