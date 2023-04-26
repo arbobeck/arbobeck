@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Adam</h1>
-<h3 align="center">A Computational Anthropologist in Leipzig, Germany</h3>
+<h3 align="center">I'm a Computational Anthropologist living in Leipzig, Germany</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arbobeck&label=Profile%20views&color=0e75b6&style=flat" alt="arbobeck" /> </p>
 
