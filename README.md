@@ -1,9 +1,6 @@
-<h1 align="center">Hi, I'm Adam</h1>
-<h3 align="center">I'm a anthropologist living in Leipzig, Germany</h3>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arbobeck&label=Profile%20views&color=0e75b6&style=flat" alt="arbobeck" /> </p>
-
-- I’m currently studying for the: **MS Azure 104 Certificate**
 
 - Reach me at: **arbobeck@gmail.com**
 
